@@ -12,4 +12,4 @@ step by step
 6. git add "file name" # this command is used to add the new or changed file
 7. git add . # this command is used to add all files
 8. git commit -m "give a meaniful commit name here"
-9. 
+9. git push origin main #this command is used to upload local repo to remote repo
